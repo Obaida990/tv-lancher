@@ -1,0 +1,10 @@
+{
+  "name": "my-tv-launcher",
+  "version": "1.0.0",
+  "description": "Simple remote-friendly launcher for Samsung TV",
+  "packageType": "app",
+  "appName": "My Launcher",
+  "appPath": "app/index.html",
+  "keys": [],
+  "license": "MIT"
+}
